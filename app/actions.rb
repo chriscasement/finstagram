@@ -35,7 +35,7 @@ get '/' do
     
     @post_marlin = {
         username: "marlin_peppa",
-        avatar_url: "http://naserca.com/images/marling_peppa.jpg",
+        avatar_url: "http://naserca.com/images/marlin_peppa.jpg",
         photo_url: "http://naserca.com/images/marlin.jpg",
         humanized_time_ago: humanized_time_ago(190),
         like_count: 0,
